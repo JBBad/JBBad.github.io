@@ -6,3 +6,5 @@ Dagobert Duck - der beste Geizhals aller Zeiten
 * absolutobergeizig
 * knickerig
 * knauserig
+
+> Nur Geld macht glücklich!
